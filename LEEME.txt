@@ -1,0 +1,14 @@
+ALIEN STORE - VERSIÓN INSTALABLE
+
+Contenido:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icons/
+
+Importante:
+Para instalarla como aplicación, estos archivos deben estar publicados en una dirección HTTPS.
+Después, abre esa dirección en Chrome y usa:
+Menú de tres puntos > Agregar a pantalla principal / Instalar aplicación.
+
+Los datos siguen guardándose en el almacenamiento local del dispositivo.
